@@ -1,0 +1,329 @@
+body{
+    background-color: #ffffff;
+}
+
+.title{
+    background-color:#eeeded; 
+    border-radius: 15px;
+   
+}
+.top{
+padding: 10px;
+margin-right: 20px;
+display: inline-block;
+font-family: sans-serif;
+
+
+}
+
+ 
+a{
+    margin-left: 280px;
+    color: rgb(87, 53, 53);
+    text-decoration: none;
+    margin-left: 250px;
+    font-size: x-large;
+
+    
+}
+    
+a:hover{
+    background-color: rgb(91, 42, 105);
+    
+    
+}
+.a1st-row{
+    display: flex;
+   text-align: center;
+   justify-content: space-between;
+   margin: 10px;
+}
+
+ .hero-contant{
+    width: 900px;
+    height: 200px;
+    text-align: center;
+    padding-left: 90px;
+    margin: 170px;
+    background-color: #f5f1f19d;
+ 
+   
+  
+
+   
+ }
+ button{
+    background-color: rgb(91, 42, 105);
+    color: aliceblue;
+    padding: 20px;
+    width: 300px;
+    font-size: large;
+    justify-content: center;
+    
+    
+
+ }
+ .view-all2{
+    margin-left: 800px;
+    
+ }
+
+.sofa{
+    width: 900px;
+    height: 500px;
+    padding-top: 60px;
+   
+   
+}
+.textbtw1{
+    text-align: center;
+    padding: 50px;
+    padding-bottom: 30px;
+    font-family: sans-serif;
+    background-color: rgb(245, 245, 245);
+}
+
+.navbar2{
+    width: 100px;
+    height: 100px;
+    padding-left: 500px;
+    padding-top: 50px;
+}
+.navbar3{
+    width: 100px;
+    height: 100px;
+    padding-left: 600px;
+   
+}
+.navbartext{
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+  
+  
+}
+.navbar2text{
+    width: 710px;
+}
+.navbar3text{
+    width: 340px;
+}
+
+
+
+.img2 {
+    height: 500px;
+    width: 400px;
+    padding: 40px;
+}
+.img3{
+    height: 500px;
+    width: 400px;
+    padding: 40px;
+}
+.img4 {
+    height: 500px;
+    width: 400px;
+    padding: 40px;
+}
+.img5{
+    height: 500px;
+    width: 400px;
+    padding: 40px;
+}
+
+.img-line-3{
+    width: 100px; 
+     display: flex;
+ 
+}
+
+
+.a2nd-row{
+   display: flex;
+   
+   padding-right: 100px;
+   margin: 80px;
+   
+  
+}
+.img6{
+    
+    width: 1px;
+    padding-top: 200px;
+    
+    
+   
+}
+.img7{
+
+    width: 990px;
+    
+   
+}
+.img8{
+   
+    width: 1px;
+ 
+   
+}
+.img9{
+    
+    width: 250px;
+   padding-top: 385px;
+   
+
+}
+
+.Dream-home{
+    margin: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.name-email{
+margin: 100px;
+
+}
+
+input{
+    height: 40px;
+    width: 320px;
+    border: none;
+    text-decoration:underline;
+    font-size:x-large ;
+}
+
+
+
+.ourproject{
+    
+    height: 200px;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 150px;
+    padding-top: 20px;
+    background-color:rgba(243, 238, 238, 0.521);
+    padding: 60px;
+    font-family: sans-serif;
+    
+   
+}
+.view-all-button1{
+    margin-left: 60px;
+}
+
+
+
+.img-last{
+    
+   display: flex;
+   
+}
+.img10{
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+   
+
+}
+.img11{
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+
+}
+.img12{
+    height: 840px;
+    width: 500px;
+    padding-right: 50px;
+    padding-top: 20px;
+
+}
+.img13{
+    height: 400px;
+    width: 400px;
+    padding:20px;
+
+}
+.img14{
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+
+}
+.img15{
+    height: 840px;
+    width: 500px;
+    padding-top: 20px;
+    padding-right: 10px;
+    
+    
+
+}
+.footer-flex{
+    margin-top: 100px;
+    background-color:#eeeded;
+    color: rgb(0, 0, 0);
+    display:flex;
+   
+   
+ }
+ .footer-logo{
+    margin: 20px;
+    height: 125px;
+ }
+ .foot-img{
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    
+ }
+
+
+.footer-paragraph{
+    width: 400px;
+    padding: 25px;
+    font-family: sans-serif;
+
+}
+
+.what-we-do{
+    
+    width: 200px;
+    padding: 90px;
+    font-family: sans-serif;
+
+}
+.get-touch{
+    
+    width: 200px;
+    padding: 90px;
+    font-family: sans-serif;
+   
+}
+  .img16{
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+  }
+  .img17{
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+  }.img18{
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+  }
+  .img19{
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+  }
+  .img20{
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+  }
+    
+
+
